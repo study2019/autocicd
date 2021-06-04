@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDokoKy03jUouXRUyEkrUeHMkjD909ZH9MZpzd03hrUS2RX3IVZElnMJVcC/Pov9N8qJ6Sn4RIeC74NXkWdVnQ==",
+  "dgSpecHash": "3HjexR9TS0PY6zQL/pBL06Kk+MEqHstTp14BoJVpU++bnH7nPo/vfussjT0omTxSFFKEZX+1HiwOj6fCG7pnCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\source\\git\\autocicd\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
